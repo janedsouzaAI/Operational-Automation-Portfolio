@@ -1,23 +1,38 @@
-# Operational-Automation-Portfolio
-Python and Appsmith projects showcasing portfolio lifecycle and onboarding automation for finance operations
-# Finance Operations Portfolio
+# Operational Automation Portfolio
 
-This repository showcases my experience in portfolio lifecycle management, client/broker onboarding, and process automation in finance operations.
+**Jane Dsouza**  
+Financial Operations & Fund Onboarding | Python, Power BI, MongoDB, Appsmith  
+Frankfurt, Germany | [GitHub](https://github.com/janedsouzaAI)
 
-## Key Highlights
+---
 
-- **Broker-Fund Reporting Tool (Python)**  
-  - Automated report to track broker-fund mappings
-  - Reduced manual effort and minimized booking errors
-  - Collaborated with US/UK colleagues for smooth process transition
+## Overview
+This portfolio showcases automation and data management projects designed to streamline fund onboarding and operational workflows, improve efficiency, and reduce errors.
 
-- **Onboarding Lifecycle Tracker (Appsmith + MongoDB + Power BI)**  
-  - Streamlined client/broker onboarding lifecycle
-  - Real-time KPI tracking for trading and business teams
-  - Replaced manual Excel processes with automated tool
+---
 
-## Skills Demonstrated
+## Projects
 
-- Python, MongoDB, Appsmith, Power BI, Power Automate, Excel
-- Portfolio lifecycle and collateral management
-- KYC, AML compliance, client/broker onboarding
+### 1. Broker-Fund Mapping Tool
+- **Problem:** Manual tracking of broker-fund relationships caused errors and delays.  
+- **Solution:** Python-based report to automate mapping and improve accuracy.  
+- **Impact:** Reduced booking errors and saved significant time for trading teams.
+
+### 2. Onboarding Lifecycle Tracker
+- **Problem:** Excel-based tracking was inefficient across teams.  
+- **Solution:** Appsmith + MongoDB tool to manage onboarding lifecycle for liquid and illiquid funds.  
+- **Impact:** Streamlined updates, real-time KPI visibility, improved cross-team coordination.
+
+### 3. Power BI KPI Dashboards
+- **Purpose:** Visualize onboarding progress and operational performance.  
+- **Impact:** Helped management monitor KPIs and make informed decisions.
+
+---
+
+## Skills & Tools
+Python, MongoDB, Power BI, Appsmith, Excel, Power Automate
+
+---
+
+## Contact
+[Email](mailto:janedsouza@ymail.com) | [LinkedIn](https://www.linkedin.com/in/janedsouza)
